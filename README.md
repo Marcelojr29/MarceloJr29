@@ -2,7 +2,7 @@
 - 🔭 Hoje, ainda não trabalho com programação
 - 🌱 Estou aprendendo, JavaScript, C++, C#, HTML, GODOT
 
-<div align="center">
+<div>
   <a href="https://github.com/Marcelojr29">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Marcelojr29&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marcelojr29&layout=compact&langs_count=7&theme=dark"/>
