@@ -1,6 +1,6 @@
 ## Eae, suave? Sou o Marcelo Junior prazer em te conhecer!
 - 🔭 Hoje, ainda não trabalho com programação
-- 🌱 Estou aprendendo, JavaScript, C++, C#, HTML, GODOT
+- 🌱 Estou aprendendo, JavaScript, C++, C, Python
 
 <div align="center">
   <a href="https://github.com/Marcelojr29">
