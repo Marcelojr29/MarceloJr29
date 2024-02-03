@@ -1,4 +1,4 @@
-## Eae, suave? Sou o Marcelo Junior prazer em te conhecer!
+## Opa, tudo bem? prazer em conhecer você!
 - 🔭 Hoje, ainda não trabalho com programação
 - 🌱 Estou aprendendo, JavaScript, C++, C, Python
 
