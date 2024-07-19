@@ -1,6 +1,38 @@
-## Opa, tudo bem? prazer em conhecer você!
-- 🔭 Hoje, ainda não trabalho com programação
-- 🌱 Estou aprendendo, JavaScript, C++, C, Python
+Sobre: Sou um desenvolvedor backend especializado em desenvolvimento de aplicações desktop e web, com um foco mais acentuado em aplicações desktop. Possuo sólida experiência em linguagens de programação orientadas a objetos (POO) e um vasto conjunto de habilidades técnicas. Tenho um histórico comprovado em suporte técnico, administração de banco de dados e desenvolvimento de sistemas internos. Sou um profissional dedicado, com habilidades em resolver problemas técnicos e desenvolver soluções eficazes para melhorar processos internos. Busco oportunidades para aplicar e expandir minhas habilidades em desenvolvimento backend, contribuindo para o sucesso da equipe e da empresa.
+
+Educação: Graduando em Engenharia de Software na Faculdade Metropolinata de Manaus (FAMETRO)
+
+Cursos: Técnico em Informática (IEMAC) | Técnico em Administração (Curso Nobre)
+
+Habilidades com Front-End:
+• HTML/CSS
+• JavaScript
+• TypeScript
+• Frameworks: Next.js, Angular, Tailwind CSS, React
+
+Habilidades com Back-End:
+• C/C++
+• C# (.NET, ASP .NET)
+• Python (Django, Flask, SQLite)
+• Java
+• Node.js
+• PHP
+
+Habilidades com Banco de Dados:
+• MySQL
+• SQL Server
+• Oracle
+• PostgreSQL
+• MongoDB
+
+Habilidaeds com Desenvolvimento de Jogos:
+• Unity
+• Unreal Engine
+• Game Maker
+
+Idiomas: Inglês - Intermediário | Espanhol - Básico
+
+Contato: marcelobjr.ti@gmail.com
 
 <div align="center">
   <a href="https://github.com/Marcelojr29">
