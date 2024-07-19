@@ -5,30 +5,30 @@
 📚 Cursos: Técnico em Informática (IEMAC) | Técnico em Administração (Curso Nobre)
 
 💻 Habilidades com Front-End:
-• HTML/CSS
-• JavaScript
-• TypeScript
-• Frameworks: Next.js, Angular, Tailwind CSS, React
+| HTML/CSS
+| JavaScript
+| TypeScript
+| Frameworks: Next.js, Angular, Tailwind CSS, React
 
 💻 Habilidades com Back-End:
-• C/C++
-• C# (.NET, ASP .NET)
-• Python (Django, Flask, SQLite)
-• Java
-• Node.js
-• PHP
+| C/C++
+| C# (.NET, ASP .NET)
+| Python (Django, Flask, SQLite)
+| Java
+| Node.js
+| PHP
 
 💻 Habilidades com Banco de Dados:
-• MySQL
-• SQL Server
-• Oracle
-• PostgreSQL
-• MongoDB
+| MySQL
+| SQL Server
+| Oracle
+| PostgreSQL
+| MongoDB
 
 💻 Habilidaeds com Desenvolvimento de Jogos:
-• Unity
-• Unreal Engine
-• Game Maker
+| Unity
+| Unreal Engine
+| Game Maker
 
 🗣️ Idiomas: Inglês - Intermediário | Espanhol - Básico
 
