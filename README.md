@@ -1,37 +1,43 @@
 # 👋 Olá, eu sou o Marcelo!
 
+### 💡 Desenvolvedor Front-End focado em aplicações web modernas, escaláveis e bem estruturadas
+
 🙋🏻‍♂️ **Sobre mim**  
 Sou desenvolvedor **Front-End**, com forte atuação em desenvolvimento web moderno.  
-Tenho experiência sólida com **Programação Orientada a Objetos (POO)**, construção de interfaces performáticas e integração com APIs.  
+Tenho experiência prática com **Programação Orientada a Objetos (POO)**, construção de interfaces performáticas e integração com APIs REST.  
 Gosto de resolver problemas reais através de código limpo, escalável e bem estruturado, sempre buscando melhorar processos e a experiência do usuário.
+
+---
+
+## 🎯 Atualmente focado em:
+- Desenvolvimento de aplicações web com **Angular e Next.js**
+- Boas práticas de arquitetura, código limpo e escalabilidade
+- Criação de APIs REST com Node.js e NestJS
+
+---
+
+💼 Aberto a oportunidades como **Desenvolvedor Front-End Júnior / Pleno**  
+📫 Entre em contato pelo LinkedIn ou Email
+
+---
+
+💻 **Front-End**
+JavaScript | TypeScript | Angular | Next.js | Tailwind CSS 
+
+---
+
+⚙️ **Stack Back-End**  
+Node.js | Express | Fastify | NestJS  
+
+---
+
+🗄️ **Banco de Dados**  
+PostgreSQL | MongoDB  
 
 ---
 
 🎓 **Formação**  
 🎓 Graduando em **Engenharia de Software** — **UNICESUMAR**
-
----
-
-💻 **Stack Front-End**  
-- JavaScript (ES6+)  
-- TypeScript  
-- Angular  
-- Next.js  
-- Tailwind CSS  
-
----
-
-⚙️ **Stack Back-End**  
-- Node.js  
-- Express  
-- Fastify  
-- NestJS  
-
----
-
-🗄️ **Banco de Dados**  
-- PostgreSQL  
-- MongoDB  
 
 ---
 
