@@ -94,11 +94,11 @@ const marcelo = {
 
 <div align="center">
 <a href="https://github.com/Marcelojr29">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=Marcelojr29&show_icons=true&theme=tokyonight&border_radius=10"/>
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marcelojr29&layout=compact&langs_count=7&theme=tokyonight&border_radius=10"/>
+  <img height="165em" src="https://raw.githubusercontent.com/Marcelojr29/Marcelojr29/main/profile/stats.svg"/>
+  <img height="165em" src="https://raw.githubusercontent.com/Marcelojr29/Marcelojr29/main/profile/top-langs.svg"/>
 </a>
 <br/>
-<img src="https://streak-stats.demolab.com/?user=Marcelojr29&theme=tokyonight&border_radius=10" alt="streak stats"/>
+<img src="https://raw.githubusercontent.com/Marcelojr29/Marcelojr29/main/profile/streak.svg" alt="streak stats"/>
 </div>
 
 ---
