@@ -18,7 +18,7 @@
 
 ## 🙋🏻‍♂️ Sobre mim
 
-Sou **Desenvolvedor FullStack** com foco principal em **Angular** (POO, Signals, standalone components, a nova sintaxe de control flow) — também transito por React/Next.js quando o projeto pede. Hoje atuo como Front-End em ambiente fabril na **Jabil**, em Manaus, e no backend estou evoluindo de NestJS para **.NET**, a stack que mais abre portas para quem já vem de Angular no mercado brasileiro.
+Sou **Desenvolvedor FullStack** com foco principal em **Angular** — também transito por React/Next.js quando o projeto pede. Hoje atuo como Front-End em ambiente fabril na **Jabil**, em Manaus, e no backend estou evoluindo de NestJS para **.NET**, a stack que mais abre portas para quem já vem de Angular no mercado brasileiro.
 
 Gosto de entender o "porquê" por trás de cada tecnologia antes de usá-la, e aprender algo novo é literalmente o que mais me motiva no dia a dia como dev.
 
