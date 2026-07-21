@@ -1,92 +1,119 @@
-# 👋 Olá, eu sou o Marcelo!
+<div align="center">
 
-### 💡 Desenvolvedor Front-End focado em aplicações web modernas, escaláveis e bem estruturadas
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1B2A,100:1B263B&height=200&section=header&text=Marcelo%20Junior&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=FullStack%20Developer%20%7C%20Angular%20%2B%20.NET&descAlignY=55&descSize=18" width="100%"/>
 
-🙋🏻‍♂️ **Sobre mim**  
-Sou desenvolvedor **Front-End**, com forte atuação em desenvolvimento web moderno.  
-Tenho experiência prática com **Programação Orientada a Objetos (POO)**, construção de interfaces performáticas e integração com APIs REST.  
-Gosto de resolver problemas reais através de código limpo, escalável e bem estruturado, sempre buscando melhorar processos e a experiência do usuário.
+<a href="https://github.com/Marcelojr29">
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=20&pause=1000&color=4EA8DE&center=true&vCenter=true&width=650&lines=Desenvolvedor+FullStack+(Angular);Frontend+na+Jabil+%7C+Estudando+Eng.+de+Software;Backend+em+evolu%C3%A7%C3%A3o%3A+NestJS+%E2%86%92+.NET;Aprender+coisa+nova+%C3%A9+meu+combust%C3%ADvel+%F0%9F%9A%80" alt="Typing SVG" />
+</a>
 
----
+<br/>
 
-## 🎯 Atualmente focado em:
-- Desenvolvimento de aplicações web com **Angular e Next.js**
-- Boas práticas de arquitetura, código limpo e escalabilidade
-- Criação de APIs REST com Node.js e NestJS
+<a href="https://www.linkedin.com/in/marcelobjr/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:marcelobjr.ti@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<img src="https://komarev.com/ghpvc/?username=Marcelojr29&style=for-the-badge&color=4EA8DE&label=Visualiza%C3%A7%C3%B5es"/>
 
----
+</div>
 
-💼 Aberto a oportunidades como **Desenvolvedor Front-End Júnior / Pleno**  
-📫 Entre em contato pelo LinkedIn ou Email
+<br/>
 
----
+## 🙋🏻‍♂️ Sobre mim
 
-💻 **Front-End**
-JavaScript | TypeScript | Angular | Next.js | Tailwind CSS 
+Sou **Desenvolvedor FullStack** com foco principal em **Angular** (POO, Signals, standalone components, a nova sintaxe de control flow) — também transito por React/Next.js quando o projeto pede. Hoje atuo como Front-End em ambiente fabril na **Jabil**, em Manaus, e no backend estou evoluindo de NestJS para **.NET**, a stack que mais abre portas para quem já vem de Angular no mercado brasileiro.
 
----
+Gosto de entender o "porquê" por trás de cada tecnologia antes de usá-la, e aprender algo novo é literalmente o que mais me motiva no dia a dia como dev.
 
-⚙️ **Stack Back-End**  
-Node.js | Express | Fastify | NestJS  
+Fora do código, gosto de usar o tempo livre pra desligar a mente e recarregar — principalmente com jogos, que acabam sendo uma forma de manter o foco e a curiosidade ativos.
 
----
+Essa mesma curiosidade que me faz explorar um jogo até o fim é o que me puxa pra aprender e evoluir constantemente como desenvolvedor — hoje, principalmente na transição de NestJS para .NET.
 
-🗄️ **Banco de Dados**  
-PostgreSQL | MongoDB  
-
----
-
-🎓 **Formação**  
-🎓 Graduando em **Engenharia de Software** — **UNICESUMAR**
+```txt
+const marcelo = {
+  perfil: "FullStack",
+  frontFoco: "Angular",
+  backEvolucao: "NestJS → .NET",
+  motivacao: "curiosidade constante",
+};
+```
 
 ---
 
-🗣️ **Idiomas**  
-- 🇺🇸 Inglês — Intermediário  
+## 🎯 Atualmente focado em
+
+- 🔷 Construindo aplicações web robustas com **Angular** (foco principal) e apoio em **React/Next.js**
+- 🟣 Estudando **C# e ASP.NET Core** para consolidar o backend em **.NET**
+- 🧱 Boas práticas de arquitetura, clean code e escalabilidade
+- 🎓 Graduando em **Engenharia de Software** — UNICESUMAR
 
 ---
 
-✉️ **Contato**  
-📧 **Email:** marcelobjr.ti@gmail.com  
+## 💻 Stack & Ferramentas
+
+<div align="center">
+
+**Front-End** <sub>(foco: Angular)</sub>
+<br/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" height="40" alt="TypeScript"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original-wordmark.svg" height="40" alt="Angular"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" height="40" alt="React"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original-wordmark.svg" height="40" alt="Next.js"/>
+
+**Back-End**
+<br/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" height="40" alt="Node.js"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg" height="40" alt="NestJS"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dot-net/dot-net-original-wordmark.svg" height="40" alt=".NET"/>
+
+**Banco de Dados**
+<br/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" height="40" alt="PostgreSQL"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original-wordmark.svg" height="40" alt="MongoDB"/>
+
+**Ferramentas**
+<br/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swagger/swagger-original.svg" height="40" alt="Swagger"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/prisma/prisma-original.svg" height="40" alt="Prisma ORM"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" height="40" alt="Git"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" height="40" alt="VS Code"/>
+
+</div>
+
+---
+
+## 🚀 Aplicações publicadas
+
+| Projeto | Link |
+|---|---|
+| 🏢 **MRISE** | [mrise-frontend.vercel.app](https://mrise-frontend.vercel.app/) |
+| 🎬 **CineXplorer** | [frontend-cinexplorer.vercel.app](https://frontend-cinexplorer.vercel.app/) |
+| 🏗️ **Cezar Construções** | [cezarconstrucoes.vercel.app](https://cezarconstrucoes.vercel.app/) |
 
 ---
 
 ## 📊 GitHub Stats
 
 <div align="center">
-  <a href="https://github.com/Marcelojr29">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Marcelojr29&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marcelojr29&layout=compact&langs_count=7&theme=dark"/>
-  </a>
+<a href="https://github.com/Marcelojr29">
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=Marcelojr29&show_icons=true&theme=tokyonight&border_radius=10"/>
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marcelojr29&layout=compact&langs_count=7&theme=tokyonight&border_radius=10"/>
+</a>
+<br/>
+<img src="https://streak-stats.demolab.com/?user=Marcelojr29&theme=tokyonight&border_radius=10" alt="streak stats"/>
 </div>
 
 ---
 
-## 🚀 Tecnologias
+## 🗣️ Idiomas
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="JavaScript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-  <img align="center" alt="TypeScript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
-  <img align="center" alt="Angular" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original-wordmark.svg" />
-  <img align="center" alt="Next.js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original-wordmark.svg" />
-  <img align="center" alt="Tailwind" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original-wordmark.svg" />
-  <img align="center" alt="Node.js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" />
-  <img align="center" alt="Express" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" />
-  <img align="center" alt="Fastify" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastify/fastify-original-wordmark.svg" />
-  <img align="center" alt="NestJS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg" />
-  <img align="center" alt="PostgreSQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
-  <img align="center" alt="MongoDB" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original-wordmark.svg" />
-</div>
+- 🇧🇷 Português — Nativo
+- 🇺🇸 Inglês — Intermediário
 
 ---
 
-## 🌐 Redes
+<div align="center">
 
-<div>
-  <a href="https://www.linkedin.com/in/marcelobjr/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:marcelobjr.ti@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
+💼 Aberto a oportunidades como **Desenvolvedor FullStack** (Angular-first + .NET)
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1B263B,100:0D1B2A&height=100&section=footer" width="100%"/>
+
 </div>
