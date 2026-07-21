@@ -112,7 +112,7 @@ const marcelo = {
 
 <div align="center">
 
-💼 Aberto a oportunidades como **Desenvolvedor FullStack** (Angular-first + .NET)
+💼 Aberto a oportunidades como **Desenvolvedor FullStack** (Angular + .NET)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1B263B,100:0D1B2A&height=100&section=footer" width="100%"/>
 
