@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1B2A,100:1B263B&height=200&section=header&text=Marcelo%20Junior&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=FullStack%20Developer%20%7C%20Angular%20%2B%20.NET&descAlignY=55&descSize=18" width="100%"/>
 
 <a href="https://github.com/Marcelojr29">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=20&pause=1000&color=4EA8DE&center=true&vCenter=true&width=650&lines=Desenvolvedor+FullStack+(Angular);Frontend+na+Jabil+%7C+Estudando+Eng.+de+Software;Backend+em+evolu%C3%A7%C3%A3o%3A+NestJS+%E2%86%92+.NET;Aprender+coisa+nova+%C3%A9+meu+combust%C3%ADvel+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=20&pause=1000&color=4EA8DE&center=true&vCenter=true&width=650&lines=Desenvolvedor+FullStack+%28Angular%29;" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -18,19 +18,19 @@
 
 ## 🙋🏻‍♂️ Sobre mim
 
-Sou **Desenvolvedor FullStack** com foco principal em **Angular** — também transito por React/Next.js quando o projeto pede. Hoje atuo como Front-End em ambiente fabril na **Jabil**, em Manaus, e no backend estou evoluindo de NestJS para **.NET**, a stack que mais abre portas para quem já vem de Angular no mercado brasileiro.
+Sou **Desenvolvedor FullStack** com foco principal em **Angular** — também transito por React/Next.js quando o projeto pede. Tenho experiência como Front-End em ambiente corporativo (Jabil, Manaus), com base sólida em Node.js/NestJS e conhecimento em C#/.NET no backend.
 
 Gosto de entender o "porquê" por trás de cada tecnologia antes de usá-la, e aprender algo novo é literalmente o que mais me motiva no dia a dia como dev.
 
 Fora do código, gosto de usar o tempo livre pra desligar a mente e recarregar — principalmente com jogos, que acabam sendo uma forma de manter o foco e a curiosidade ativos.
 
-Essa mesma curiosidade que me faz explorar um jogo até o fim é o que me puxa pra aprender e evoluir constantemente como desenvolvedor — hoje, principalmente na transição de NestJS para .NET.
+Essa mesma curiosidade que me faz explorar um jogo até o fim é o que me puxa pra aprender e me aprofundar constantemente como desenvolvedor, com Node.js/NestJS e C#/.NET no backend.
 
 ```txt
 const marcelo = {
   perfil: "FullStack",
   frontFoco: "Angular",
-  backEvolucao: "NestJS → .NET",
+  backend: "Node.js/NestJS, C#/.NET",
   motivacao: "curiosidade constante",
 };
 ```
@@ -40,7 +40,7 @@ const marcelo = {
 ## 🎯 Atualmente focado em
 
 - 🔷 Construindo aplicações web robustas com **Angular** (foco principal) e apoio em **React/Next.js**
-- 🟣 Estudando **C# e ASP.NET Core** para consolidar o backend em **.NET**
+- 🟣 Aprofundando conhecimentos em **C# e ASP.NET Core** para atuação FullStack completa
 - 🧱 Boas práticas de arquitetura, clean code e escalabilidade
 - 🎓 Graduando em **Engenharia de Software** — UNICESUMAR
 
