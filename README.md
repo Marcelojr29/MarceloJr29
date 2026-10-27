@@ -1,9 +1,9 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1B2A,100:1B263B&height=200&section=header&text=Marcelo%20Junior&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=FullStack%20Developer%20%7C%20Angular%20%2B%20.NET&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1B2A,100:1B263B&height=200&section=header&text=Marcelo%20Junior&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full+Stack%20Developer%20%7C%20Angular%20%2B%20.NET&descAlignY=55&descSize=18" width="100%"/>
 
 <a href="https://github.com/Marcelojr29">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=20&pause=1000&color=4EA8DE&center=true&vCenter=true&width=650&lines=Desenvolvedor+FullStack+%28Angular%29;" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=20&pause=1000&color=4EA8DE&center=true&vCenter=true&width=650&lines=Full+Stack+Developer+%28Angular%29;" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -18,39 +18,38 @@
 
 ## 🙋🏻‍♂️ Sobre mim
 
-Sou **Desenvolvedor FullStack** com foco principal em **Angular** — também transito por React/Next.js quando o projeto pede. Tenho experiência como Front-End em ambiente corporativo (Jabil, Manaus), com base sólida em Node.js/NestJS e conhecimento em C#/.NET no backend.
+I am a **Full-Stack Developer** with a primary focus on **Angular**—though I also work with React/Next.js when the project requires it. I have experience in front-end development within a corporate environment (Jabil, Manaus), alongside a solid foundation in Node.js/NestJS and proficiency in C#/.NET for back-end development.
 
-Gosto de entender o "porquê" por trás de cada tecnologia antes de usá-la, e aprender algo novo é literalmente o que mais me motiva no dia a dia como dev.
+I like to understand the "why" behind every technology before using it; in fact, learning something new is what motivates me most in my day-to-day work as a developer.
 
-Fora do código, gosto de usar o tempo livre pra desligar a mente e recarregar — principalmente com jogos, que acabam sendo uma forma de manter o foco e a curiosidade ativos.
+Outside of coding, I use my free time to switch off and recharge—often through gaming, which helps keep my focus and curiosity sharp.
 
-Essa mesma curiosidade que me faz explorar um jogo até o fim é o que me puxa pra aprender e me aprofundar constantemente como desenvolvedor, com Node.js/NestJS e C#/.NET no backend.
+That same curiosity—the drive that leads me to explore a game to its very end—is what compels me to constantly learn and deepen my expertise as a developer, specifically within the Node.js/NestJS and C#/.NET back-end ecosystems.
 
 ```txt
 const marcelo = {
-  perfil: "FullStack",
-  frontFoco: "Angular",
-  backend: "Node.js/NestJS, C#/.NET",
-  motivacao: "curiosidade constante",
+  profile: "FullStack",
+  Front-End: "Angular",
+  Back-End: "Node.js/NestJS, Python/FastAPI, C#/.NET",
+  motivation: "constant curiosity",
 };
 ```
 
 ---
 
-## 🎯 Atualmente focado em
+## 🎯 Currently focused on
 
-- 🔷 Construindo aplicações web robustas com **Angular** (foco principal) e apoio em **React/Next.js**
-- 🟣 Aprofundando conhecimentos em **C# e ASP.NET Core** para atuação FullStack completa
-- 🧱 Boas práticas de arquitetura, clean code e escalabilidade
-- 🎓 Graduando em **Engenharia de Software** — UNICESUMAR
+- 🔷 Building robust web applications with **Angular** and **.NET**
+- 🧱 Architectural best practices, clean code, modular architecture, and scalability
+- 🎓 Undergraduate student in **Software Engineering** — UNICESUMAR
 
 ---
 
-## 💻 Stack & Ferramentas
+## 💻 Stack and Tools
 
 <div align="center">
 
-**Front-End** <sub>(foco: Angular)</sub>
+**Front-End** <sub>(Angular)</sub>
 <br/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" height="40" alt="TypeScript"/>
@@ -64,12 +63,12 @@ const marcelo = {
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg" height="40" alt="NestJS"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dot-net/dot-net-original-wordmark.svg" height="40" alt=".NET"/>
 
-**Banco de Dados**
+**Database**
 <br/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" height="40" alt="PostgreSQL"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original-wordmark.svg" height="40" alt="MongoDB"/>
 
-**Ferramentas**
+**Tools**
 <br/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swagger/swagger-original.svg" height="40" alt="Swagger"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/prisma/prisma-original.svg" height="40" alt="Prisma ORM"/>
@@ -80,13 +79,13 @@ const marcelo = {
 
 ---
 
-## 🚀 Aplicações publicadas
+## 🚀 Published applications
 
-| Projeto | Link |
+| Project | Link |
 |---|---|
 | 🏢 **MRISE** | [mrise-frontend.vercel.app](https://mrise-frontend.vercel.app/) |
 | 🎬 **CineXplorer** | [frontend-cinexplorer.vercel.app](https://frontend-cinexplorer.vercel.app/) |
-| 🏗️ **Cezar Construções** | [cezarconstrucoes.vercel.app](https://cezarconstrucoes.vercel.app/) |
+| 🏗️ **Cezar Construction** | [cezarconstrucoes.vercel.app](https://cezarconstrucoes.vercel.app/) |
 
 ---
 
@@ -105,14 +104,14 @@ const marcelo = {
 
 ## 🗣️ Idiomas
 
-- 🇧🇷 Português — Nativo
-- 🇺🇸 Inglês — Intermediário
+- 🇺🇸 English — Advanced
+- es Spanish - Basic
 
 ---
 
 <div align="center">
 
-💼 Aberto a oportunidades como **Desenvolvedor FullStack** (Angular + .NET)
+💼 Open to opportunities as a **Full Stack Developer** (Angular + .NET)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1B263B,100:0D1B2A&height=100&section=footer" width="100%"/>
 
